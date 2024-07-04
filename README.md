@@ -30,5 +30,5 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 
 ---
 
-Feel free to connect with me on LinkedIn to discuss more about data analysis! [LinkedIn Profile](www.linkedin.com/in/durgasreechowdharykommini)
+Feel free to connect with me on LinkedIn to discuss more about data analysis! [LinkedIn Profile](https://www.linkedin.com/in/durgasreechowdharykommini/)
 
