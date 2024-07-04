@@ -1,5 +1,3 @@
-# Data-Cleaning-Project
-
 # Data Cleaning Project in MySQL
 
 ## Overview
